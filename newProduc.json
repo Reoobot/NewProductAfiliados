@@ -1,0 +1,7 @@
+[
+    { "image": "ropa15.jpg", "link": "ropa.html", "title": "Explora nuestra ropa" },
+    { "image": "libro10.jpg", "link": "libros.html", "title": "Descubre libros cristianos", "offer": true },
+    { "image": "gorras7.jpg", "link": "gorras.html", "title": "Gorras con propósito" },
+    { "image": "articulo11.jpg", "link": "articulos.html", "title": "Artículos destacados", "offer": true },
+    { "image": "biblia7.jpg", "link": "biblias.html", "title": "Biblias para todos" }
+]
