@@ -1,0 +1,2 @@
+# NewProductAfiliados
+json static
